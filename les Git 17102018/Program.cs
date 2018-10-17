@@ -6,7 +6,7 @@ namespace les_Git_17102018
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World 20!");
+            Console.WriteLine("Hello master!");
             Console.Read();
         }
     }
