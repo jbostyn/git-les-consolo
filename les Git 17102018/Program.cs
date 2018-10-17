@@ -6,7 +6,7 @@ namespace les_Git_17102018
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello van devolop 0!");
+            Console.WriteLine("Hello van devolop ssssss0!");
             Console.Read();
         }
     }
